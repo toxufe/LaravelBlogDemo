@@ -1,4 +1,4 @@
-@extends('public.index11111')
+@extends('public.index')
 
 @section('content')
 <div class="container">
